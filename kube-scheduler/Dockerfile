@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-scheduler:v1.12.1
+FROM gcr.io/google_containers/kube-scheduler-arm:v1.11.3
 MAINTAINER pipilu92
