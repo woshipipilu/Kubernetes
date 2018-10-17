@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd:3.2.24
+FROM gcr.io/google_containers/etcd-arm:3.2.18
 MAINTAINER pipilu92
