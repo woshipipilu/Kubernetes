@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-proxy-arm:v1.11.3
+FROM gcr.io/google_containers/kube-proxy:v1.12.1
 MAINTAINER pipilu92
